@@ -8,6 +8,7 @@
       "https://bsc-dataseed.binance.org/",
       "https://bsc-dataseed1.defibit.io/",
       "https://bsc-dataseed1.ninicoin.io/"
+      "https://rpc.tenderly.co/fork/375699ac-3445-4671-91bb-3a073a13749a",
     ],
     "faucets": [
       "https://free-online-app.com/faucet-for-eth-evm-chains/"
